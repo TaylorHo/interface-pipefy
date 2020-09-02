@@ -8,31 +8,31 @@ export function loadLists() {
           id: 1,
           content: 'Estudar módulo 01 de NodeJS',
           labels: ['#7159c1'],
-          user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+          user: 'https://avatars1.githubusercontent.com/u/47436525?s=460&u=358490529c38d8db8f6afff029ba8d0af1dec601&v=4'
         },
         {
           id: 2,
           content: 'Criar vídeo para o Youtube ensinando a recriar a interface do Pipefy',
           labels: ['#7159c1'],
-          user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+          user: 'https://avatars1.githubusercontent.com/u/47436525?s=460&u=358490529c38d8db8f6afff029ba8d0af1dec601&v=4'
         },
         {
           id: 3,
           content: 'Estudar módulo 03 de React Native',
           labels: ['#7159c1'],
-          user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+          user: 'https://avatars1.githubusercontent.com/u/47436525?s=460&u=358490529c38d8db8f6afff029ba8d0af1dec601&v=4'
         },
         {
           id: 4,
           content: 'Gravar Aula "NextJS: Utilizando server-side rendering com ReactJS"',
           labels: ['#54e1f7'],
-          user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+          user: 'https://avatars1.githubusercontent.com/u/47436525?s=460&u=358490529c38d8db8f6afff029ba8d0af1dec601&v=4'
         },
         {
           id: 5,
           content: 'Gravar testes e deploy ReactJS',
           labels: ['#54e1f7'],
-          user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+          user: 'https://avatars1.githubusercontent.com/u/47436525?s=460&u=358490529c38d8db8f6afff029ba8d0af1dec601&v=4'
         },
       ]
     },
@@ -44,7 +44,7 @@ export function loadLists() {
           id: 6,
           content: 'Recriando clone do Pipefy',
           labels: [],
-          user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+          user: 'https://avatars1.githubusercontent.com/u/47436525?s=460&u=358490529c38d8db8f6afff029ba8d0af1dec601&v=4'
         }
       ]
     },
@@ -56,13 +56,13 @@ export function loadLists() {
           id: 7,
           content: 'Gravar sobre Geolocalização e mapas com React Native',
           labels: ['#7159c1'],
-          user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+          user: 'https://avatars1.githubusercontent.com/u/47436525?s=460&u=358490529c38d8db8f6afff029ba8d0af1dec601&v=4'
         },
         {
           id: 8,
           content: 'Gravar testes e deploy ReactJS',
           labels: ['#54e1f7'],
-          user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+          user: 'https://avatars1.githubusercontent.com/u/47436525?s=460&u=358490529c38d8db8f6afff029ba8d0af1dec601&v=4'
         },
         {
           id: 9,
