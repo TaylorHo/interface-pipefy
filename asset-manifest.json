@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/interface-pipefy/static/js/main.e96f5b76.chunk.js",
+    "main.js.map": "/interface-pipefy/static/js/main.e96f5b76.chunk.js.map",
+    "runtime-main.js": "/interface-pipefy/static/js/runtime-main.5bee838f.js",
+    "runtime-main.js.map": "/interface-pipefy/static/js/runtime-main.5bee838f.js.map",
+    "static/js/2.9e3531a5.chunk.js": "/interface-pipefy/static/js/2.9e3531a5.chunk.js",
+    "static/js/2.9e3531a5.chunk.js.map": "/interface-pipefy/static/js/2.9e3531a5.chunk.js.map",
+    "index.html": "/interface-pipefy/index.html",
+    "precache-manifest.5f75220689775a365fb7ffc3605e9a99.js": "/interface-pipefy/precache-manifest.5f75220689775a365fb7ffc3605e9a99.js",
+    "service-worker.js": "/interface-pipefy/service-worker.js",
+    "static/js/2.9e3531a5.chunk.js.LICENSE.txt": "/interface-pipefy/static/js/2.9e3531a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bee838f.js",
+    "static/js/2.9e3531a5.chunk.js",
+    "static/js/main.e96f5b76.chunk.js"
+  ]
+}
